@@ -46,4 +46,16 @@ module.exports.routes = {
   *                                                                          *
   ***************************************************************************/
 
+  'POST /acl/addUserRoles':       'ACLController.addUserRoles',
+  'POST /acl/removeUserRoles':    'ACLController.removeUserRoles',
+  'GET  /acl/userRoles':          'ACLController.userRoles',
+  'POST /acl/addRoleParents':     'ACLController.addRoleParents',
+  'POST /acl/removeRole':         'ACLController.removeRole',
+  'POST /acl/allow':              'ACLController.allow',
+  'POST /acl/removeAllow':        'ACLController.removeAllow',
+  'GET  /acl/allowedPermissions': 'ACLController.allowedPermissions',
+  'GET  /acl/isAllowed':          'ACLController.isAllowed',
+  'GET  /acl/areAnyRolesAllowed': 'ACLController.areAnyRolesAllowed',
+  'GET  /acl/whatResources':      'ACLController.whatResources',
+  'POST /acl/removeResource':     'ACLController.removeResource',
 };
