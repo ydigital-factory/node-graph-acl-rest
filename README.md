@@ -1,4 +1,5 @@
-node-graph-acl-rest
-===================
+# node-graph-acl-rest
 
-A REST interfaze for an ACL module using Graph databases
+A REST interface for an ACL module using Graph databases.
+
+This is a [Sails](http://sailsjs.org) application.
