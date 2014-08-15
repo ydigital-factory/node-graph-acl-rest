@@ -1,0 +1,7 @@
+{
+  "name": "Node Graph ACL REST",
+  "description": "A REST API for an ACL using Graph databases",
+  "repository": "https://github.com/ydigital-factory/node-graph-acl-rest",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "rest", "api", "graph", "acl", "neo4j"]
+}
