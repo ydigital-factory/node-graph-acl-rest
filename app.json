@@ -1,7 +1,14 @@
 {
   "name": "Node Graph ACL REST",
   "description": "A REST API for an ACL using Graph databases",
-  "keywords": ["node", "rest", "api", "graph", "acl", "neo4j"],
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "graph",
+    "acl",
+    "neo4j"
+  ],
   "website": "https://ydigitalfactory.com/",
   "repository": "https://github.com/ydigital-factory/node-graph-acl-rest",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
